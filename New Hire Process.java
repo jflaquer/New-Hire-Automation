@@ -48,10 +48,9 @@ private void activeDirectoryNav(){
 }
 
 //Function to open Exchange Portal and Navigate through the 
+private void exchangePortalNav(){
 
-
-
-//
+}
 
 //Main function to run everything in the correct order
 public static void main(String args[]) {
